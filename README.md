@@ -16,4 +16,5 @@ This project is a simple desktop stopwatch application developed using C# and Wi
 6. If needed, click the "Reset" button to reset the stopwatch.
 
 ## Screenshots
-
+![Timer](https://github.com/meral-uraz/Timer/blob/master/Timerr.png)
+![Timer_Record](https://github.com/meral-uraz/Timer/blob/master/Timer_Recordd.png)
