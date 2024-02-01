@@ -15,5 +15,5 @@ This project is a simple desktop stopwatch application developed using C# and Wi
 5. Click the "Start/Stop" button again to stop the stopwatch.
 6. If needed, click the "Reset" button to reset the stopwatch.
 
-##Screenshots
+## Screenshots
 
